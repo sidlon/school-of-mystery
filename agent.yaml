@@ -1,0 +1,9 @@
+handle: school_of_mystery_game
+name: School of Mystery
+description: |
+  This agent recreates a classic style of text adventure.
+  It's your first day in a new high school.  Make an interesting friend!
+
+  tags: simple, no-fewshot, fun
+entry_point: main:agent
+public: true
